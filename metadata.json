@@ -1,0 +1,7 @@
+{
+  "name": "Multichannel AI CRM Inbox",
+  "description": "Unified multichannel inbox for WhatsApp, Instagram, and Messenger with channel-specific Gemini AI auto-reply agents, 24-hour Meta window enforcement, webhook idempotency, and single-path message delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
